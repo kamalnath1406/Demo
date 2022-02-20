@@ -9,6 +9,8 @@ public class GitHubSolutions {
 		String str1="Automation+Engineer="+(123+456);
 	
 	
+		System.out.println(str);
+		
 		System.out.println(str1);
 		
 	}
