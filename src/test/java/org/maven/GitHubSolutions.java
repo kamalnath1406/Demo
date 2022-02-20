@@ -10,6 +10,8 @@ public class GitHubSolutions {
 	
 		System.out.println(str);
 	
+		System.out.println(str);
+		
 		System.out.println(str1);
 		
 	}
